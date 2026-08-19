@@ -48,20 +48,37 @@ The application allows employees to:
 
 ## Project Documentation
 
-This repository will include:
+The project documentation follows the QA lifecycle from initial test planning through defect resolution and final regression testing.
 
-- QA Test Plan
-- Test Scenarios and Test Cases
-- Defect Reports
-- Root Cause Analysis
-- Regression Test Results
-- Final Test Summary
+- [QA Test Plan](test-plan/QA-Test-Plan.md) — Defines the testing scope, objectives, environment, approach, entry and exit criteria, and defect classification.
+- [Test Scenarios and Test Cases](test-cases/Test-Cases.md) — Documents nine functional test cases with test steps, expected results, actual results, and pass/fail status.
+- [DEF-001: Missing Required Request Category](defect-reports/DEF-001.md) — Documents the service request validation defect, severity, priority, impact, corrective action, and resolution.
+- [DEF-002: Invalid Email Format](defect-reports/DEF-002.md) — Documents the profile email validation defect, impact, corrective action, retesting, and resolution.
+- [Root Cause Analysis](root-cause-analysis/Root-Cause-Analysis.md) — Uses the 5 Whys method to analyze DEF-001 and identify corrective and preventive actions.
+- [Regression Test Results](regression-testing/Regression-Test-Results.md) — Documents defect retesting and regression testing after corrective actions were applied.
+- [Final Test Summary](test-summary/Final-Test-Summary.md) — Summarizes testing results, defect resolution, regression results, and final project status.
+
+## Project Results
+
+| Metric | Result |
+|---|---:|
+| Initial Test Cases | 9 |
+| Initial Passed | 7 |
+| Initial Failed | 2 |
+| Defects Identified | 2 |
+| Defects Resolved | 2 |
+| Regression Tests | 6 |
+| Regression Tests Passed | 6 |
+| Open Defects | 0 |
+
+**Initial Pass Rate:** 77.8%  
+**Regression Pass Rate:** 100%
 
 ## Project Status
 
-**In Progress**
+**Complete**
 
-This project is being developed as part of my professional portfolio to demonstrate practical software quality assurance, testing, and process improvement skills.
+This simulated portfolio project demonstrates the complete QA workflow from test planning and execution through defect reporting, root cause analysis, corrective action, retesting, regression testing, and final reporting.
 
 ## About Me
 
