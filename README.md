@@ -82,4 +82,4 @@ This simulated portfolio project demonstrates the complete QA workflow from test
 
 ## About Me
 
-I am an Information Technologies student with professional experience in quality, analytics, operational reporting, and process improvement. My career interests include Software Quality Assurance, Quality Analyst, IT Business and Systems Analysis, IT Operations, and technology-focused process improvement roles.
+I am an Information Technologies student with professional experience in quality, analytics, operational reporting, and process improvement. My career interests include Software Quality Assurance, Quality Analyst, IT Business and Systems Analysis, Application Support, and technology-focused process improvement roles.
